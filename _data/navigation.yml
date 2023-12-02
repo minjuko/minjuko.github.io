@@ -1,12 +1,12 @@
-# main links
+# main links # 내비게이션 바
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "정보"
+    url: /about/
+  - title: "알고리즘"
+    url: /categories/
+  - title: "학교"
+    url: /collection-archive/
+  - title: "react"
+    url: /sitemap/
+  - title: "Tags"
+    url: /tags/
